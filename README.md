@@ -41,10 +41,10 @@ public class Main {
 }
 ## Resultado
 
-## Exercicio quadrilatero
- Area do quadrado:9.0
- Area do retangulo: + lado1 * lado2
- Area do trapezio:67.5
- Area do retangulo: + lado1 * lado2
+     //Exercicio quadrilatero
+     Area do quadrado:9.0
+     Area do retangulo: + lado1 * lado2
+     Area do trapezio:67.5
+     Area do retangulo: + lado1 * lado2
 
 Process finished with exit code 0
