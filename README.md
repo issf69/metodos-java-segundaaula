@@ -40,7 +40,7 @@ public class Main {
     }
 }
 ## Resultado
-C:\Users\Irene\.jdks\openjdk-18.0.1.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\lib\idea_rt.jar=51354:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Irene\Documents\Metodo java aula 2\metodo-java-aula2\out\production\metodo-java-aula2" dio.com.br.Main
+
 Exercicio quadrilatero
 Area do quadrado:9.0
 Area do retangulo: + lado1 * lado2
